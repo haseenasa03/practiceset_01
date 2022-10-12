@@ -1,10 +1,10 @@
-/*let get_data=()=>
+let get_data=()=>
 {
     console.log(this);
 }
-get_data()*/
-function get_Data()
+get_data()
+/*function get_Data()
 {
     console.log(this);
 }
-get_Data()
+get_Data()*/
