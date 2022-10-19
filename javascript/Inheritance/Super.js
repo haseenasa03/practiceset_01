@@ -14,5 +14,4 @@ class Child extends Parent {
     
 }
 let a1 = new Child()
-console.log(a1);
-a1.print();
+
