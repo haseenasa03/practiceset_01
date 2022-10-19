@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    font-family: 'Merriweather', serif;
+}
+.nav-link{
+    color:black;
+    font-weight:500;
+}
+.navbar-brand{
+    color:black;
+    font-weight:500;
+}
